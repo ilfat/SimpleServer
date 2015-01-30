@@ -1,0 +1,5 @@
+/Users/user/Projects/PrimeServer/PrimeServer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/user/Projects/PrimeServer/PrimeServer/bin/Debug/PrimeServer.exe.mdb
+/Users/user/Projects/PrimeServer/PrimeServer/bin/Debug/PrimeServer.exe
+/Users/user/Projects/PrimeServer/PrimeServer/obj/x86/Debug/PrimeServer.exe
+/Users/user/Projects/PrimeServer/PrimeServer/obj/x86/Debug/PrimeServer.exe.mdb
