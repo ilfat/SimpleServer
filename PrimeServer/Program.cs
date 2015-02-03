@@ -19,8 +19,9 @@ namespace PrimeServer
 			{
 				Console.Write ("Ошибка. Не введен номер порта.");
 			}
-			catch {
-
+			catch (Exception e) {
+				Console.WriteLine (e.Message);
+				//Если например введен отрицательный порт, порт занят или другие ошибки, просто выходим  
 			}
 		}
 	}
